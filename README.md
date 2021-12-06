@@ -6,7 +6,7 @@ This is an NBA Encyclopedia for all fans, ranging from young to old! Leveraging 
 
 So look up your favorite team and learn a thing or two more about NBA history, or secure some bragging rights for your favorite team! 
 
-Algolia's products are very easy to use and can play a crucial part to any application. Throughout the entire development process, the documentation as well as the online support community are both wonderful resources.
+Algolia's products are very easy to use and can play a crucial part to any application. Throughout the entire development process, the documentation as well as the online support community are both wonderful resources. I highly recommend leveraging Algolia in your next project.
 
 This application can be viewed directly here: https://algolia-demo-nba.github.io
 
