@@ -8,7 +8,6 @@ I'm also struggling with understanding what types of metrics would be useful to 
 Cheers, George
 <br />
 <br />
-<br />
 **Hello, George!
 Thank you for reaching out! I can certainly help you with your questions.** <br />
 <br />
