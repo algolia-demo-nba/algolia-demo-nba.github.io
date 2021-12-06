@@ -55,16 +55,18 @@ Regards, Leo
 
 **I think you could also benefit greatly from sitting down with one of our Solutions Engineers to talk more in-depth about your project, they can even walk you through a demo of Algolia. Please let me know if you have any questions or if you’re ready to schedule that call!**
 
+**Getting Started With Algolia Dashboard**
+https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/getting-started-with-the-dashboard/
+<br />
+**Open Source Algolia Libraries and Plugins**
+https://community.algolia.com/#instantsearch
+
 
 **Best,<br />
 Arash**
 
 <br />
 <br />
-Getting Started With Algolia Dashboard:
-https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/getting-started-with-the-dashboard/
-<br />
-Open Source Algolia Libraries and Plugins:
-https://community.algolia.com/#instantsearch
+
 
 
