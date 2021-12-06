@@ -37,6 +37,7 @@ https://support.algolia.com/hc/en-us/articles/4406981906833-What-is-a-record-<br
 <br />
 https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/
 <br />
+<br />
 
 
 
@@ -57,6 +58,8 @@ Regards, Matt
 https://www.algolia.com/doc/api-client/methods/manage-indices/
 <br />
 <br />
+<br />
+
 **Best,<br />
 Arash**
 <br />
@@ -82,6 +85,7 @@ https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/getting
 <br />
 https://community.algolia.com/#instantsearch
 
+<br />
 
 **Best,<br />
 Arash**
