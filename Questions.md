@@ -13,7 +13,7 @@ Cheers, George
 <br />
 Thank you for reaching out! I can certainly help you with your questions.** <br />
 <br />
-**Records are any object that you add to an index that you want to search for. They can contain a multitude of attributes that are used by your searching and/or filtering processes.**
+**- Records are any object that you add to an index that you want to search for. They can contain a multitude of attributes that are used by your searching and/or filtering processes.**
 <br />
 <br />
 **-	You can think of indexing as the way that the data source is being used by your search engine. An index is almost like a data table, except that it is optimized for your search operations through processes such as setting attributes and configuring their relevance settings.**
