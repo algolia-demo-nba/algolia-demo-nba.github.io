@@ -7,7 +7,7 @@ I'm also struggling with understanding what types of metrics would be useful to 
 
 Cheers, George
 
-**Hello, George!
+**Hello, George!**
 Thank you for reaching out! I can certainly help you with your questions.
 **-	Records are any object that you add to an index that you want to search for. They can contain a multitude of attributes that are used by your searching and/or filtering processes. 
 **-	You can think of indexing as the way that the data source is being used by your search engine. An index is almost like a data table, except that it is optimized for your search operations through processes such as setting attributes and configuring their relevance settings.  
