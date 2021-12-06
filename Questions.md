@@ -26,13 +26,14 @@ Thank you for reaching out! I can certainly help you with your questions.** <br 
 **I've attached some relevant documentation below, as well. I hope this information is helpful! Please don't hesitate to reach out if you have any further questions!**
 <br />
 
-**Indexing:**
-<br />
-https://support.algolia.com/hc/en-us/articles/4406981910289-What-is-an-index-<br />
-<br />
 **Records:**
 <br />
 https://support.algolia.com/hc/en-us/articles/4406981906833-What-is-a-record-<br />
+
+<br />
+**Indexing:** 
+<br />
+https://support.algolia.com/hc/en-us/articles/4406981910289-What-is-an-index-<br /> 
 <br />
 **Custom Ranking:**
 <br />
