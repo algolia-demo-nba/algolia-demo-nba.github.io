@@ -33,6 +33,12 @@ https://support.algolia.com/hc/en-us/articles/4406981910289-What-is-an-index-<br
 <br />
 https://support.algolia.com/hc/en-us/articles/4406981906833-What-is-a-record-<br />
 <br />
+**Custom Ranking:**
+<br />
+https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/
+<br />
+
+
 
 **Best,<br />
 Arash**
