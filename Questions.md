@@ -2,7 +2,6 @@ Question 1: Hello,
 I'm new to search engines, and there are a lot of concepts I'm not educated on. To make my onboarding smoother, it'd help if you could provide me with some definitions of the following concepts:
 •	Records
 •	Indexing
-o	You can think of indexing as the way that the data source is being used by your search engine. An index is almost like a data table, except that it is optimized for your search operations through processes such as setting attributes and configuring their relevance settings.  
 I'm also struggling with understanding what types of metrics would be useful to include in the "Custom Ranking."
 
 Cheers, George
