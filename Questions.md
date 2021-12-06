@@ -22,6 +22,8 @@ Thank you for reaching out! I can certainly help you with your questions.** <br 
 **-	Custom ranking metrics are a great place to implement more specific metrics to your use-case in order to specify what attributes to rank on. For example, an e-commerce platform may consider the number of sales for specific products as the most important custom ranking metric when deciding how to return search results, followed by how many people currently have said item in their cart.**
 <br />
 <br />
+**I hope this information is helpful! Please don't hesitate to reach out if you have any further questions!**
+<br />
 <br />
 **Best,<br />
 Arash**
