@@ -15,6 +15,7 @@ search.addWidgets([
     container: '#searchbox',
     placeholder: "Search"
   }),
+  // Modules for search results, containing name, location, conference, and logo.
   instantsearch.widgets.hits({
     container: '#hits',
     templates: {
@@ -48,6 +49,7 @@ search.addWidgets([
 instantsearch.widgets.clearRefinements({
     container: '#clear-refinements',
   }),
+  // Refinements for filtering result
   instantsearch.widgets.refinementList({
     container: '#conference-list',
     attribute: 'conference',
