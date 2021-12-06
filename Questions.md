@@ -59,6 +59,7 @@ Regards, Leo
 <br />
 https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/getting-started-with-the-dashboard/
 <br />
+<br />
 **Open Source Algolia Libraries and Plugins:**
 <br />
 https://community.algolia.com/#instantsearch
