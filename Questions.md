@@ -74,7 +74,7 @@ Regards, Leo
 
 **Hello, Leo!**
 
-**I appreciate you reaching out to us. Algolia has plenty of features within the dashboard that can speed up the implementation process. It was built to be used by both developers and non-developers. We also offer a variety of plugins and libraries to speed up the development process. I will attach some links to documentation on both below.**
+**I appreciate you reaching out to us. Algolia has plenty of features within the dashboard that can speed up the implementation process. It was built to be used by both developers and non-developers. Getting started just requires setting up your account and indexing a dataset, which is a fast and easy process! We also offer a variety of plugins and libraries to speed up the development process. I will attach some links to documentation on both below.**
 
 **I think you could also benefit greatly from sitting down with one of our Solutions Engineers to talk more in-depth about your project, they can even walk you through a demo of Algolia. Please let me know if you have any questions or if you’re ready to schedule that call!**
 
