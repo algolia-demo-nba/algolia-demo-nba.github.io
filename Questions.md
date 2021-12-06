@@ -9,6 +9,8 @@ Cheers, George
 <br />
 <br />
 **Hello, George!
+<br />
+<br />
 Thank you for reaching out! I can certainly help you with your questions.** <br />
 <br />
 **Records are any object that you add to an index that you want to search for. They can contain a multitude of attributes that are used by your searching and/or filtering processes.**
