@@ -29,7 +29,7 @@ search.addWidgets([
          <br />
 
 // Add location attribute to the team module
-                     Location:
+     Location:
  {{#helpers.highlight}}{ "attribute": "location" }{{/helpers.highlight}}
          <br />
      Conference:
@@ -37,9 +37,9 @@ search.addWidgets([
  // Add number of championships attribute to team module
  {{#helpers.highlight}}{ "attribute": "conference" }{{/helpers.highlight}}
           <br />
-          Championships:  {{#helpers.highlight}}{ "attribute": "Number of Championships" }{{/helpers.highlight}}
-          </div>
+     Championships:  {{#helpers.highlight}}{ "attribute": "Number of Championships" }{{/helpers.highlight}}
         </div>
+     </div>
 `,
     },
   }),
